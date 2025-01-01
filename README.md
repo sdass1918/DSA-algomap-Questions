@@ -1,4 +1,4 @@
-<img src="[https://en.wikipedia.org/wiki/LeetCode](https://imgs.search.brave.com/E6I-k6tCjLR8g1C62dpo8fBhxZ8Ph6r7moGQxEyB4Tw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL2FzaGlz/aHBzMS9hd2Vzb21l/LWxlZXRjb2RlLXJl/c291cmNlcy9yYXcv/bWFpbi9pbWFnZXMv/bGVldGNvZGUtcmVw/by1sb2dvLnBuZw)" alt="LEETCODE" width="500">  
+![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
 
 
 # DSA Algomap Questions
